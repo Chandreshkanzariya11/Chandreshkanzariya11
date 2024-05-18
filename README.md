@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername/?tab=follow"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"/></a>
+  <a href="https://github.com/Chandreshkanzariya11/?tab=follow"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"/></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-@yourusername-1ca0f1?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-youremail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
@@ -41,11 +41,11 @@
 
 ## 🌟 Top Projects
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo-name">
+  <a href="https://github.com/Chandreshkanzariya11/your-repo-name">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=radical" alt="ReadMe Card"/>
   </a>
-  <a href="https://github.com/yourusername/your-repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=radical" alt="ReadMe Card"/>
+  <a href="https://github.com/Chandreshkanzariya11/your-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandreshkanzariya11&repo=Chandreshkanzariya11&theme=radical" alt="ReadMe Card"/>
   </a>
 </p>
 
@@ -53,15 +53,15 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" alt="Your GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chandreshkanzariya11&theme=react-dark" alt="Your GitHub Activity Graph"/>
 </p>
 
 ---
 
 ## 💬 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Chandreshkanzariya11/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Chandreshkanzariya11"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
