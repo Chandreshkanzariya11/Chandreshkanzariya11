@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🙋🏻‍♂%20Welcome%20to%20my%20GitHub%20profile;👦🏻%20I'm%20Jeel%20Butani;🔗%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"></div>
 
-![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/jeel-butani/jeel-butani/assets/104854130/31a10718-9169-49e7-8163-45cfae7ec924)
+
 
 🎓 B.Tech student in ICT at Marwadi University (4rd Year) | 📍 Rajkot, Gujarat | 📞 +91-9879735128 
 
@@ -23,25 +23,25 @@
 </h4>
  
  <div align="center">
-<a href="http://www.github.com/jeel-butani"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=jeel-butani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Jeel's GitHub stats" /></a>
-<a href="https://github.com/jeel-butani"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeel-butani&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/jeel-butani"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeel-butani&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/Chandreshkanzariya11"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Chandreshkanzariya11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Jeel's GitHub stats" /></a>
+<a href="https://github.com/Chandreshkanzariya11"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandreshkanzariya11&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Chandreshkanzariya11"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandreshkanzariya11&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 
 ## 👁️ Visitors
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=jeel-butani alt=Jeel Butani/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Chandreshkanzariya11 alt=Jeel Butani/> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jeel-butani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Chandreshkanzariya11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jeel-butani&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Chandreshkanzariya11&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jeel-butani&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Chandreshkanzariya11&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
