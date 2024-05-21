@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" alt="Your GitHub Trophy Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandreshkanzariya11&theme=onedark" alt="Your GitHub Trophy Stats"/>
 </p>
 
 <!--
